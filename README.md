@@ -1,7 +1,7 @@
 # QGIS Learning Journal
 
-Welcome to my QGIS Learning Journal — a record of my path into the world of GIS, mapping, and spatial data analysis.  
-I’m a mechanical engineer by education, proffessional automotive restorer and video editor by background and lately I've decided to transition into GIS as since childhood I've been fascinated by maps, geography, and been a passionate traveler, terrain lurker.
+Welcome to my **QGIS Learning Journal** — a record of my path into the world of GIS, mapping, and spatial data analysis.  
+I’m a mechanical engineer by education, professional automotive restorer and video editor by background and lately I've decided to transition into GIS as since childhood I've been fascinated by maps, geography, and been a passionate traveler, terrain lurker.
 This repository documents my hands-on learning process through the Official QGIS Training Manual, OSM contributions, JOSM and other resources.
 
 ---
