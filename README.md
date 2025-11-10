@@ -8,17 +8,10 @@ This repository documents my hands-on learning process through the Official QGIS
 
 ## Repository Structure
 
-qgis-learning-journal/
-│
-├── README.md
-├── lessons/
-│   └── 01_intro_to_qgis/
-│       ├── map_screenshot.png
-│       ├── notes.md
-│       └── data_sources.txt
-└── reflections/
-    └── week_01_reflection.md
-
+| Folder | Description |
+|--------|--------------|
+| `lessons/` | My completed exercises from the QGIS training manual |
+| `reflections/` | Weekly thoughts on what I’ve learned and how it connects to realworld GIS work |
 
 ---
 
