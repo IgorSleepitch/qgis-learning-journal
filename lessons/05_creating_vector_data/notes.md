@@ -16,7 +16,7 @@
 - Understood the importance of topological accuracy in editing workflows.  
 - Created functional forms for faster and more reliable data input.  
 - Linked spatial features to external resources through QGIS Actions.  
-- Saved the final layer as `custom_vector_dataset.gpkg`.
+- Saved the final layer as `school_property.gpkg`.
 
 ### Reflection
 Digitizing data by hand feels like “drawing knowledge onto the map”.  
