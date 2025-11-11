@@ -16,4 +16,4 @@
 - Created my first simple map.
 
 ### Reflection
-Working in QGIS feels partly intuitive after Photoshop and Premiere. However, interface and mechanics felt quite outdated.
+Working in QGIS feels partly intuitive after Photoshop and Premiere. However, interface and some mechanics felt quite outdated.
