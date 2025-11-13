@@ -29,7 +29,7 @@ This repository documents my hands-on learning process through the Official QGIS
 
 | Lesson | Preview | Topic |
 |--------|----------|--------|
-| 01 | *(screenshot coming soon)* | QGIS interface and base map setup |
+| 07 | *lessons/07_rasters/Screenshot 2025-11-13 at 14.20.20.png* | Rasters |
 
 ---
 
